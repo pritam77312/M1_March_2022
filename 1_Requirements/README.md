@@ -11,9 +11,9 @@
 
 ## RESEARCH 
 
-Why is maintaining fitness important? 
+# Why is maintaining fitness important? 
 
-•When you're young, it's easy to take your body and your health for granted. However, as you age, the importance of maintaining good health becomes more apparent. When you keep your body working well, you enjoy greater energy and fewer aches and pains.
+• When you're young, it's easy to take your body and your health for granted. However, as you age, the importance of maintaining good health becomes more apparent. When you keep your body working well, you enjoy greater energy and fewer aches and pains.
 Some more highlights in order to maintain the body are as follows :-
 
 •	Helps You Live Longer: 
@@ -29,8 +29,6 @@ No matter what kind of addiction you are affected by a healthy lifestyle filled 
 This may seem like a no-brainer, but by staying healthy, your medical bills will be significantly lower. Lower medical costs will often lead to fewer debts and a higher credit score. 
 
 ## FEATURES
-
-Features: 
 
 •	The person will be giving certain details such as name, age, height, weight, etc. required for the calculation of the fitness indices. 
 
