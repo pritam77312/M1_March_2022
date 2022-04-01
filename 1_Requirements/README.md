@@ -45,7 +45,7 @@ Features:
 •	Thereby, this project is a handy tool where the person has to simply give out basic details which will be processed and the output will be given with a report. 
 
 ##Flow_Chart
-![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Decription_Flowchart.jpg)
+![Description](https://github.com/pritam77312/M1_March_2022/blob/main/1_Requirements/Flowchart.jpg)
 ## SWOT_ANALYSIS
 
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
