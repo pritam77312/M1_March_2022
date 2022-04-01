@@ -48,7 +48,7 @@ Features:
 ![Description](https://github.com/pritam77312/M1_March_2022/blob/main/1_Requirements/Flowchart.jpg)
 ## SWOT_ANALYSIS
 
-![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
+![Description](https://github.com/pritam77312/M1_March_2022/blob/main/1_Requirements/SWOT.jpg)
 
 ## 4W_&1H
 ## Who
