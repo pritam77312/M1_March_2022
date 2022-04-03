@@ -49,12 +49,6 @@ Further information is needed to better understand the correlation of BMI, body 
 
 •	Thereby, this project is a handy tool where the person has to simply give out basic details which will be processed and the output will be given with a report. 
 
-##Flow_Chart
-![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Decription_Flowchart.jpg)
-## SWOT_ANALYSIS
-
-![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
-
 ## 4W_&1H
 ## Who
 The project is accessible for everyone. A person has to simply input his basic details such as height, weight, etc. for getting the output.
